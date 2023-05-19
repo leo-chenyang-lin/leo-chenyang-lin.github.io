@@ -72,19 +72,13 @@ params:
         - name: CV
           url: "/cv.pdf"
         - name: Email
-          url: "mailto:pascalmichaillat@gmail.com"
+          url: "mailto:clin25@g.ucla.edu"
         - name: Location
           url: /location/
-        - name: Office Hours
-          url: /officehours/
         - name: Google Scholar
-          url: "https://scholar.google.com/citations?user=cL23w-4AAAAJ"
-        - name: YouTube
-          url: "https://www.youtube.com/@pmichaillat"
+          url: "https://scholar.google.com/citations?user=lVWapzcAAAAJ&hl=en&authuser=2&oi=ao"
         - name: GitHub
-          url: "https://github.com/pmichaillat"
-        - name: Substack
-          url: "https://pmichaillat.substack.com"
+          url: "https://github.com/leo-chenyang-lin"
 
     assets:
         disableHLJS: true
@@ -93,7 +87,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Pascal Michaillat"
+      text: "Leo Chenyang Lin"
       icon: /favicon.ico
       iconHeight: 18
 
