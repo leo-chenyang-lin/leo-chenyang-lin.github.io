@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/" 
-title: Pascal Michaillat
+baseURL: "https://leo-chenyang-lin.github.io/" 
+title: Leo Chenyang Lin
 paginate: 20
 theme: PaperMod
 
@@ -7,7 +7,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 
 social:
-    twitter: pmichaillat
+    twitter: clin25_lin
 
 taxonomies:
     tag: tags
@@ -31,9 +31,9 @@ menu:
           weight: 5
 
 params:
-    description: "I am an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, metascience."
-    author: Pascal Michaillat
-    googleAnalyticsID: "G-97G4MZ4061"
+    description: "I am an incoming PhD student at Boston University. I use a combination of neuroimaging, neuromodulation, and behavioral methods to address some of the challenging questions regarding human cognition and perception, such as how we determine what we consciously perceive."
+    author: Leo Chenyang Lin
+    googleAnalyticsID: "G-Y3SD5SZGBM"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
@@ -55,9 +55,9 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Pascal Michaillat
-          subtitle: "I am an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, and science-related topics. In January–June 2023, I am visiting the University of California–San Diego."
-          imageUrl: "/picture.jpeg"
+          title: Leo Chenyang Lin
+          subtitle: "I am an incoming PhD student at Boston University. I use a combination of neuroimaging, neuromodulation, and behavioral methods to address some of the challenging questions regarding human cognition and perception, such as how we determine what we consciously perceive."
+          imageUrl: "/headshot.jpeg"
           imageWidth: 170
           imageHeight: 170
           imageTitle: Pascal Michaillat
