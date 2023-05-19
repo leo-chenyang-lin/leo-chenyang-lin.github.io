@@ -60,13 +60,13 @@ params:
           imageUrl: "/headshot.jpeg"
           imageWidth: 170
           imageHeight: 170
-          imageTitle: Pascal Michaillat
+          imageTitle: Leo Chenyang Lin
           buttons:
             - name: Papers
               url: /papers/
-            - name: Courses
+            - name: Optical Illusions
               url: /courses/
-            - name: Design
+            - name: Projects
               url: /design/
     socialIcons:
         - name: CV
