@@ -70,7 +70,7 @@ params:
               url: /design/
     socialIcons:
         - name: CV
-          url: "/cv.pdf"
+          url: "static/academic_cv_0519.pdf"
         - name: Email
           url: "mailto:clin25@g.ucla.edu"
         - name: Location
