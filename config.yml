@@ -57,7 +57,7 @@ params:
           enabled: true
           title: Leo Chenyang Lin
           subtitle: "I am an incoming PhD student at Boston University. I use a combination of neuroimaging, neuromodulation, and behavioral methods to address some of the challenging questions regarding human cognition and perception, such as how we determine what we consciously perceive."
-          imageUrl: "/headshot.jpeg"
+          imageUrl: "/headshot.jpg"
           imageWidth: 170
           imageHeight: 170
           imageTitle: Leo Chenyang Lin
